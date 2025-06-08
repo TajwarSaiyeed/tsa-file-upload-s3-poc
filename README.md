@@ -73,7 +73,7 @@ src/
 
 2. **Install dependencies**
    ```bash
-   npm install
+   bun install
    ```
 
 3. **Environment Setup**
@@ -87,7 +87,7 @@ src/
 
 4. **Start development server**
    ```bash
-   npm run dev
+   bun run dev
    ```
 
 5. **Open your browser**
@@ -95,10 +95,10 @@ src/
 
 ## 🔧 Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
+- `bun run dev` - Start development server
+- `bun run build` - Build for production
+- `bun run preview` - Preview production build
+- `bun run lint` - Run ESLint
 
 ## 🔐 AWS Configuration
 
